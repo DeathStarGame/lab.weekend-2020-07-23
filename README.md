@@ -1,5 +1,7 @@
 # lab.weekend-2020-07-23
 
+[merged into https://github.com/DeathStarGame/DeathStarGame]
+
 - work moves to https://github.com/DeathStarGame/deathstar.ltee
 
 ## to sum up:
