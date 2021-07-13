@@ -40,6 +40,9 @@ to sum up:
 So it'a about making it possible to host a laptop event: invite multiple people and have a tournament.
 A goal in meaning, in value.
 
+P.S.
+The repo https://github.com/express-in-code-game/lab.weekend-2020-07-23 will be removed
+
 rationale
 
 - it will be awesome
